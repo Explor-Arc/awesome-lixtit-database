@@ -157,7 +157,7 @@
     "https://github.com/desiderantes/awesome-vala",
     "https://github.com/catdevnull/awesome-zig"
   ],
-  "Front-End Development": [
+  "FrontEnd Development": [
     "https://github.com/wasabeef/awesome-android-ui",
     "https://github.com/PatrickJS/awesome-angular",
     "https://github.com/websemantics/awesome-ant-design",
@@ -238,7 +238,7 @@
     "https://github.com/henrikwirth/awesome-wordpress-gatsby",
     "https://github.com/jetli/awesome-yew"
   ],
-  "Back-End Development": [
+  "BackEnd Development": [
     "https://github.com/PhantomYdn/awesome-wicket",
     "https://github.com/friendsofcake/awesome-cakephp",
     "https://github.com/kolomied/awesome-cdk",
